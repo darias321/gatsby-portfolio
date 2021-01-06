@@ -36,6 +36,9 @@ const Footer = () => {
               );
             })}
         </div>
+        <div>
+<h4> daniellearias321@gmail.com</h4>
+  </div>
         <hr />
         <p className="footer__text">
           © {new Date().getFullYear()} - Template developed by{' '}
