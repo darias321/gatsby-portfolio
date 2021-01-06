@@ -74,11 +74,6 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'instagram',
-      url: 'https://www.instagram.com/danielleaarias/',
-    },
     // {
     //   id: nanoid(),
     //   name: 'codepen',
@@ -93,6 +88,11 @@ export const footerData = {
       id: nanoid(),
       name: 'github',
       url: 'https://github.com/darias321',
+    },
+    {
+      id: nanoid(),
+      name: 'instagram',
+      url: 'https://www.instagram.com/danielleaarias/',
     },
   ],
 };

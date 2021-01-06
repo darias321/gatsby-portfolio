@@ -15,7 +15,7 @@ const Contact = () => {
         <Fade bottom duration={1000} delay={800} distance="30px">
           <div className="contact-wrapper">
             <p className="contact-wrapper__text">
-              {cta || 'Let\'s connect!'}
+              {/* {cta || 'Let\'s connect!'} */}
             </p>
             <a
               target="_blank"
@@ -23,7 +23,7 @@ const Contact = () => {
               className="cta-btn cta-btn--resume"
               href={email ? `mailto:${email}` : 'daniellearias321@gmail.com'}
             >
-              {btn || "Let's Talk"}
+              {btn || "Let's talk!"}
             </a>
           </div>
         </Fade>
