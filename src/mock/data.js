@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'linkedin-pic.jpg',
   paragraphOne: 'Skills: HTML, CSS, Javascript, JQUERY, React, NodeJS, MySQL, MongoDB, and Express.',
   paragraphTwo: 'UC Berkeley Extension Full Stack Development Bootcamp Graduate (2020). Also has BA in linguistics and Spanish linguistics from UC Riverside (2016) ',
-  paragraphThree: 'Possesses excellent collaboration abilities and has had to work with various types of teams. Demonstrated leadership skills and managed teams for different projects both in education and professionally. Has about 6 years of administrative and customer support experience, which were acquired in a multitude of settings. Also involoved in event coordination, public speaking, design, and general data entry.',
+  paragraphThree: 'Possesses excellent collaboration abilities and has had to work with various types of teams. Demonstrated leadership skills and managed teams for different projects both in education and professionally. Has about 6 years of administrative and customer support experience, which were acquired in a multitude of settings. Also involved in event coordination, public speaking, design, and general data entry.',
   resume: 'https://docs.google.com/document/d/1LVEihAaHs6ZQe70klorChc-ox8hBKOqwZH2RrnCpWBA/edit?usp=sharing', // if no resume, the button will not show up
 };
 
